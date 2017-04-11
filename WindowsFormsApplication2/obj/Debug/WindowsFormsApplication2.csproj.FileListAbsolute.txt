@@ -1,0 +1,2 @@
+d:\users\gaëtan\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
