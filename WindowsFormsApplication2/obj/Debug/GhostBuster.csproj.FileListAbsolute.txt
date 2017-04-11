@@ -1,1 +1,2 @@
 E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+F:\DevOps\Cours TestInteg\GhostBuster\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
