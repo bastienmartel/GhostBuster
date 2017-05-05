@@ -16,6 +16,7 @@ namespace GhostBusterTests
             bool enCours= false;
             Partie p1 = new Partie(nbMinesRestantes, nbMinesInitial, enCours);
             Assert.AreEqual(p1.NbMinesRestantes,p1.NbMinesInitial);
+            
         }
     }
 }

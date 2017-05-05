@@ -2,15 +2,17 @@
 {
     public class Partie
     {
-        private int nbMinesRestantes;
-        private int nbMinesInitial;
-        private bool enCours; //Indique si la partie est en cours d'exécution
+        public int NbMinesRestantes { get; set; }
+
+        public int NbMinesInitial { get; set; }
+
+        public bool EnCours { get; set; }
 
         public Partie(int nbMinesRestantes, int nbMinesInitial, bool enCours)
         {
-            this.nbMinesRestantes = nbMinesRestantes;
-            this.nbMinesInitial = nbMinesInitial;
-            this.enCours = enCours;
+            this.NbMinesRestantes = nbMinesRestantes;
+            this.NbMinesInitial = nbMinesInitial;
+            this.EnCours = enCours;
         }
 
     }
