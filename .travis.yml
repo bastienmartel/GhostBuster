@@ -1,2 +1,5 @@
 language: csharp
 solution: GhostBuster.sln
+install:
+  -sudo apt-get install -y gtk-sharp2
+  -nuget restore GhostBuster.sln
