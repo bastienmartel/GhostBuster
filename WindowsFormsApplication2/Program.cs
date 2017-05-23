@@ -16,7 +16,8 @@ namespace WindowsFormsApplication2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new mainFrame());
+            Partie p = new Partie(1,2,true);
         }
     }
 }

@@ -1,0 +1,17 @@
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\GhostBusterTests\bin\Debug\GhostBusterTests.dll
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\GhostBusterTests\bin\Debug\GhostBusterTests.pdb
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\GhostBusterTests\bin\Debug\ApprovalTests.dll
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\GhostBusterTests\bin\Debug\ApprovalUtilities.dll
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\GhostBusterTests\bin\Debug\ApprovalUtilities.Net45.dll
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\GhostBusterTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\GhostBusterTests\bin\Debug\nunit.framework.dll
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\GhostBusterTests\bin\Debug\WindowsFormsApplication2.exe
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\GhostBusterTests\bin\Debug\WindowsFormsApplication2.pdb
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\GhostBusterTests\bin\Debug\ApprovalTests.xml
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\GhostBusterTests\bin\Debug\ApprovalUtilities.xml
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\GhostBusterTests\bin\Debug\ApprovalUtilities.Net45.xml
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\GhostBusterTests\bin\Debug\nunit.framework.xml
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\GhostBusterTests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\GhostBusterTests\obj\Debug\GhostBusterTests.csprojResolveAssemblyReference.cache
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\GhostBusterTests\obj\Debug\GhostBusterTests.dll
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\GhostBusterTests\obj\Debug\GhostBusterTests.pdb

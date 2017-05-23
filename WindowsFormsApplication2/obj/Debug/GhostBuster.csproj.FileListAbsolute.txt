@@ -1,2 +1,10 @@
 E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
 F:\DevOps\Cours TestInteg\GhostBuster\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\WindowsFormsApplication2\obj\Debug\GhostBuster.csprojResolveAssemblyReference.cache
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mainFrame.resources
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\WindowsFormsApplication2\obj\Debug\GhostBuster.csproj.GenerateResource.Cache
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
