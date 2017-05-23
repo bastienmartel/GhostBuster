@@ -4,7 +4,7 @@ install:
   - nuget restore GhostBuster.sln
   - nuget install NUnit.Runners -Version 3.5.0 -OutputDirectory testrunner
 script:
-  - xbuild /p:Configuration=Release GhostBuster.sln
+  - xbuild /p:Configuration=Debug GhostBuster.sln
   - mono ./testrunner/NUnit.Runners.3.5.0/tools/nunit-console.exe ./GhostBuster.Tests/bin/Release/GhostBuster.Tests.dll
 
 
